@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "img": "https://web.programming-hero.com/public/1625573122618.png",
+        "name": "Jhankar Mahbub",
+        "designation": "CEO & Founder",
+        "age": 29,
+        "country": "Bangladesh",
+        "salary": 1500000
+    },
+    {
+        "id": 2,
+        "img": "https://web.programming-hero.com/public/1625419447111.png",
+        "name": "Rasel Ahmed",
+        "designation": "Product Manager",
+        "age": 26,
+        "country": "Bangladesh",
+        "salary": 880000
+    },
+    {
+        "id": 3,
+        "img": "https://web.programming-hero.com/public/1625573189607.png",
+        "name": "Sufi Ahmed",
+        "designation": "Product Manage",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 850000
+    },
+    {
+        "id": 4,
+        "img": "https://web.programming-hero.com/public/1625573334879.png",
+        "name": "Rezaul Karim",
+        "designation": "Product Manager",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 820000
+    },
+    {
+        "id": 5,
+        "img": "https://web.programming-hero.com/public/1625574691896.png",
+        "name": "MD Sakib Ahmed",
+        "designation": "Web Developer",
+        "age": 28,
+        "country": "Bangladesh",
+        "salary": 850000
+    },
+    {
+        "id": 6,
+        "img": "https://web.programming-hero.com/public/1625573392044.png",
+        "name": "Tanvir Islam",
+        "designation": "Software Engineer",
+        "age": 28,
+        "country": "Bangladesh",
+        "salary": 830000
+    },
+    {
+        "id": 7,
+        "img": "https://web.programming-hero.com/public/1625573607305.png",
+        "name": "Solaiman Shadin",
+        "designation": "Web Developer",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 810000
+    },
+    {
+        "id": 8,
+        "img": "https://web.programming-hero.com/public/1625573626449.png",
+        "name": "Sadia Sultana",
+        "designation": "Web Developer",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 830000
+    },
+    {
+        "id": 9,
+        "img": "https://web.programming-hero.com/public/1625573645197.png",
+        "name": "Manik Roy",
+        "designation": "Web Developer",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 810000
+    },
+    {
+        "id": 10,
+        "img": "https://web.programming-hero.com/public/1625575133941.png",
+        "name": "Samad Ahmad",
+        "designation": "Media Marketer",
+        "age": 27,
+        "country": "Bangladesh",
+        "salary": 830000
+    },
+    {
+        "id": 11,
+        "img": "https://web.programming-hero.com/public/1625573888271.png",
+        "name": "Faiza Feroz",
+        "designation": "SQA Engineer",
+        "age": 23,
+        "country": "Bangladesh",
+        "salary": 880000
+    },
+    {
+        "id": 12,
+        "img": "https://web.programming-hero.com/public/1625573906968.png",
+        "name": "Tanvir Islam",
+        "designation": "ACC Mentor",
+        "age": 26,
+        "country": "Bangladesh",
+        "salary": 850000
+    },
+    {
+        "id": 13,
+        "img": "https://web.programming-hero.com/public/1625573942996.png",
+        "name": "Israfil Hossen",
+        "designation": "Support Instructor",
+        "age": 28,
+        "country": "Bangladesh",
+        "salary": 810000
+    },
+    {
+        "id": 14,
+        "img": "https://web.programming-hero.com/public/1625573961266.png",
+        "name": "Najmus Sakib",
+        "designation": "Web Developer",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 870000
+    },
+    {
+        "id": 15,
+        "img": "https://web.programming-hero.com/public/1625574023463.png",
+        "name": "Muktadir Hassan",
+        "designation": "Web Developer",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 890000
+    },
+    {
+        "id": 16,
+        "img": "https://web.programming-hero.com/public/1625574121230.png",
+        "name": "Emdadul Hoque",
+        "designation": "Assistant Manager",
+        "age": 27,
+        "country": "Bangladesh",
+        "salary": 820000
+    },
+    {
+        "id": 17,
+        "img": "https://web.programming-hero.com/public/1625574140160.png",
+        "name": "Roky Das",
+        "designation": "Web Developer ",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 820000
+    },
+    {
+        "id": 18,
+        "img": "https://web.programming-hero.com/public/1625574180777.png",
+        "name": "Abu Sufian",
+        "designation": "HR Executive",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 830000
+    },
+    {
+        "id": 19,
+        "img": "https://web.programming-hero.com/public/1625574202350.png",
+        "name": "Ashrafur Rahman",
+        "designation": "Python Developer",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 860000
+    },
+    {
+        "id": 20,
+        "img": "https://web.programming-hero.com/public/1625574447829.png",
+        "name": "Tahmina Begum",
+        "designation": "Job Manager",
+        "age": 24,
+        "country": "Bangladesh",
+        "salary": 850000
+    },
+    {
+        "id": 21,
+        "img": "https://web.programming-hero.com/public/1625574548581.png",
+        "name": "Sagar Biswas",
+        "designation": "Web Developer",
+        "age": 26,
+        "country": "Bangladesh",
+        "salary": 840000
+    },
+    {
+        "id": 22,
+        "img": "https://web.programming-hero.com/public/1625574811259.png",
+        "name": "Md. Zahid Hossain",
+        "designation": "UI/UX Designer",
+        "age": 23,
+        "country": "Bangladesh",
+        "salary": 810000
+    },
+    {
+        "id": 23,
+        "img": "https://web.programming-hero.com/public/1628776077763.png",
+        "name": "A.K.M.Intisar Islam",
+        "designation": "Marketing Mafia",
+        "age": 27,
+        "country": "Bangladesh",
+        "salary": 880000
+    },
+    {
+        "id": 24,
+        "img": "https://web.programming-hero.com/public/1628776091616.png",
+        "name": "Sadman Saqib",
+        "designation": "Digital Marketer",
+        "age": 25,
+        "country": "Bangladesh",
+        "salary": 810000
+    }
+]
