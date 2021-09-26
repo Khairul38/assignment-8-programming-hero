@@ -1,17 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Programming Hero
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our Live Website [Programming Hero](https://assignment-8-programming-hero.netlify.app/).
 
-## Available Scripts
+### * We provide the best Developers, Programmers, Designers, Digital Marketers for your project
 
-In the project directory, you can run:
+### * We believe that our developers are world-class developers.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### * Start your dream project today to Conquer the World.
